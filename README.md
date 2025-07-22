@@ -18,3 +18,8 @@ A secure and transparent electronic voting system leveraging blockchain principl
 - **Blockchain Logic**: Custom, in-memory chain in JavaScript (no Solidity/Python)
 
 ## 📂 Project Structure
+project-root/
+├── client/ # React frontend
+├── server/ # Node.js backend with blockchain logic
+├── blockchain/ # Custom JS blockchain classes
+└── README.md
